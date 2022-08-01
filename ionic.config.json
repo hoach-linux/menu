@@ -1,0 +1,8 @@
+{
+  "name": "Menu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6a6c7b1f"
+}
