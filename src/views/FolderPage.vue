@@ -63,7 +63,7 @@
         </ion-item>
       </ion-list>
 
-      <ion-list>
+      <ion-list fullscreen>
         <ion-list-header> Online </ion-list-header>
 
         <ion-item>
